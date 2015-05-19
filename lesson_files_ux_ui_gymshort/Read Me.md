@@ -1,0 +1,1 @@
+These are the lesson files needed to follow along with Jeremy Osborn's "Introducing Sketch for UX and UI" gym short at http://www.thegymnasium.com
